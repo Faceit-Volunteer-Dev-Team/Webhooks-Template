@@ -16,18 +16,22 @@ Detailed logging
 
 ``` npm install```
 3.Create a `.env` file with the following variables:
-```FACEIT_API_KEY=your_api_key
+```
+FACEIT_API_KEY=your_api_key
 SECURITY_HEADER_NAME=your_security_header
 SECURITY_HEADER_VALUE=your_security_value
 SECURITY_QUERY_NAME=your_query_param
 SECURITY_QUERY_VALUE=your_query_value
 DISCORD_WEBHOOK_URL=your_discord_webhook_url
-PORT=3000```
+PORT=3000
+```
 
 # Setup
 
-```// Start the webhook server
-npm run start```
+```
+// Start the webhook server
+npm run start
+```
 
 # Contribution
 Contributions are welcome! Please feel free to submit a Pull Request.

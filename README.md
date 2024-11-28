@@ -12,9 +12,12 @@ Detailed logging
 
 1.Clone the repository
 ``` git clone  https://github.com/Faceit-Volunteer-Dev-Team/Webhooks-Template```
+
 2.Install dependencies:
 
 ``` npm install```
+
+
 3.Create a `.env` file with the following variables:
 ```
 FACEIT_API_KEY=your_api_key

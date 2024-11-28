@@ -29,7 +29,6 @@ DISCORD_WEBHOOK_URL=your_discord_webhook_url
 PORT=3000
 ```
 
-# Setup
 
 ```
 // Start the webhook server

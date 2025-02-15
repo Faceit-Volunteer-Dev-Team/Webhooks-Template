@@ -36,8 +36,9 @@ npm run start
 ```
 #SS
 
-![Match Ready](/match_ready.png)
-![Match Finished](/match_finished.png)
+![Match Ready](match_ready)
+![Match Finished](match_finished)
+
 # Contribution
 Contributions are welcome! Please feel free to submit a Pull Request.
 
